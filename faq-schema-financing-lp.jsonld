@@ -1,0 +1,62 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Is an RV loan an auto loan?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. RV loans are a separate category from traditional auto loans and are structured specifically for recreational vehicles, often with longer terms and different requirements. We work with and recommend IntroRV for your RV loan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What credit score do I need for camper van financing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most lenders look for credit scores of 680 or higher. If your score is lower, consider adding a co-signer to improve your approval chances."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How much should I put down?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RV loans typically require 10-20% down. Putting more down reduces your loan amount and the total interest you’ll pay over time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I finance the van and build separately?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Some customers finance the van with an RV loan and pay cash for the build. Others do the opposite. We can help you determine the best approach for your situation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need to get pre-approved before ordering?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No, but pre-approval helps you understand your budget before you start configuring your build. It also speeds up the process once you’re ready to finalize your order."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long does the approval process take?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Most applications take 10-15 minutes to complete. Approval decisions typically come within 24-48 hours, though some lenders offer same-day decisions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What loan terms are available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "RV loans offer terms up to 20 years. Personal loans typically range from 2-12 years. Longer terms mean lower monthly payments but more interest paid over the life of the loan."
+      }
+    }
+  ]
+}
