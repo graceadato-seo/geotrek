@@ -1,0 +1,63 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "Organization",
+    "AutoDealer"
+  ],
+  "@id": "https://geotrekvans.com/#organization",
+  "name": "Geotrek Vans",
+  "url": "https://geotrekvans.com/",
+  "mainEntityOfPage": "https://geotrekvans.com/about-us",
+  "logo": "https://geotrekvans.com/wp-content/uploads/2025/12/logo-orange-svg.svg",
+  "description": "Geotrek builds off-grid capable camper vans designed for real adventure, combining thoughtful design, durable materials, and systems that support life on the road.",
+  "foundingDate": "2021",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "6420 Odell Place",
+    "addressLocality": "Boulder",
+    "addressRegion": "CO",
+    "postalCode": "80301",
+    "addressCountry": "US"
+  },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "telephone": "(720) 640-6601",
+      "contactType": "sales",
+      "areaServed": "US",
+      "availableLanguage": "en"
+    }
+  ],
+  "founder": [
+    {
+      "@type": "Person",
+      "name": "Mark Woodard",
+      "jobTitle": "Co-Founder",
+      "worksFor": {
+        "@id": "https://geotrekvans.com/#organization"
+      },
+      "description": "Mark helps customers begin their journey, connecting people with van builds designed for real-life adventure."
+    },
+    {
+      "@type": "Person",
+      "name": "Grant McCrabb",
+      "jobTitle": "Co-Founder",
+      "worksFor": {
+        "@id": "https://geotrekvans.com/#organization"
+      },
+      "description": "Grant leads systems and growth, shaping Geotrek\u2019s evolution through process, iteration, and customer-focused improvement."
+    }
+  ],
+  "makesOffer": {
+    "@type": "Offer",
+    "itemOffered": {
+      "@type": "Product",
+      "name": "Off-Grid Camper Vans"
+    }
+  },
+  "sameAs": [
+    "https://www.instagram.com/geotrekvans",
+    "https://www.facebook.com/geotrekvans",
+    "https://www.youtube.com/channel/UCyZrAIMATOt9sqWBI4dlY1g"
+  ]
+}
