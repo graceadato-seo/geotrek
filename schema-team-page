@@ -1,0 +1,107 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "@id": "https://geotrekvans.com/team#webpage",
+      "url": "https://geotrekvans.com/team",
+      "name": "Our Team | Geotrek Vans",
+      "inLanguage": "en-US",
+      "isPartOf": {
+        "@id": "https://geotrekvans.com/#website",
+        "@type": "WebSite"
+      },
+      "about": {
+        "@id": "https://geotrekvans.com/#organization"
+      }
+    },
+    {
+      "@type": "Organization",
+      "@id": "https://geotrekvans.com/#organization",
+      "employee": [
+        {
+          "@type": "Person",
+          "name": "Mark Woodard",
+          "jobTitle": "Co-Founder",
+          "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/01/1-Mark-Woodard.jpg?lossy=1&strip=1&webp=1",
+          "description": "Mark pushes Geotrek with a relentless focus on continuous improvement across the entire business.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "Grant McCrabb",
+          "jobTitle": "Co-Founder",
+          "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/01/2-Grant-McCrabb-2048x2048.jpg?lossy=1&strip=1&webp=1",
+          "description": "Grant drives Geotrek’s growth by confronting the hardest challenges head-on and pushing the brand forward.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "Megan",
+          "jobTitle": "Head of Growth",
+          "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/03/Staff-Portraits-70-Megan.jpg?lossy=1&strip=1&webp=1",
+          "description": "Megan leads Geotrek’s customer experience, turning data into decisions that keep the company sharp and customer-focused.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "Becca",
+          "jobTitle": "Director of Sales",
+          "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/01/3-Becca-1024x1024.jpg?lossy=1&strip=1&webp=1",
+          "description": "Becca helps customers confidently choose the right Geotrek van with clear, solution-focused communication.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "Trevor",
+          "jobTitle": "Dealership Director",
+          "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/01/4-Trevor-1024x1024.jpg?lossy=1&strip=1&webp=1",
+          "description": "Trevor helps customers match their lifestyle to the right Geotrek build, bringing Sprinter expertise from his dealership background.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "Matt",
+          "jobTitle": "Customer Success Manager",
+          "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/01/7-Matt-1024x1024.jpg?lossy=1&strip=1&webp=1",
+          "description": "Matt ensures every Geotrek owner feels confident living in their van and part of the Geotrek community.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "Logan",
+          "jobTitle": "Sales Operations Manager",
+          "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/01/Staff-Portraits-67-Logan.jpg?lossy=1&strip=1&webp=1",
+          "description": "Logan supports the Geotrek sales team operations and helps keep the entire sales pipeline running smoothly.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "David",
+          "jobTitle": "Head of Content",
+          "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/03/Staff-Portraits-62-DavidW.jpg?lossy=1&strip=1&webp=1",
+          "description": "David leads creative production and brand storytelling for Geotrek through photography, video, and marketing campaigns.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        }
+      ],
+      "name": "Geotrek Vans",
+      "url": "https://geotrekvans.com/"
+    }
+  ]
+}
