@@ -42,9 +42,19 @@
         {
           "@type": "Person",
           "name": "Megan",
-          "jobTitle": "Head of Growth",
+          "jobTitle": "VP of Revenue",
           "image": "https://b4266440.smushcdn.com/4266440/wp-content/uploads/2026/03/Staff-Portraits-70-Megan.jpg?lossy=1&strip=1&webp=1",
           "description": "Megan leads Geotrek’s customer experience, turning data into decisions that keep the company sharp and customer-focused.",
+          "worksFor": {
+            "@id": "https://geotrekvans.com/#organization"
+          }
+        },
+{
+          "@type": "Person",
+          "name": "Hanna",
+          "jobTitle": "Director of Marketing",
+          "image": "https://geotrekvans.com/wp-content/uploads/2026/01/Staff-Portraits-72-Hanna-768x768.jpg",
+          "description": "leads Geotrek’s marketing efforts, blending brand strategy, content, and community-driven storytelling to build authentic campaigns that connect and perform.",
           "worksFor": {
             "@id": "https://geotrekvans.com/#organization"
           }
